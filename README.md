@@ -1,3 +1,5 @@
+📄 Preprint: https://doi.org/10.5281/zenodo.20683900
+
 Evermind + Prism
 A Dual‑Layer Cognitive Architecture for Emotional Patterning, Narrative Continuity, and Meaning‑ Making 
 Evermind + Prism is a non‑clinical cognitive companion architecture designed to interpret emotional signals, maintain narrative continuity, and support human meaning‑ making.
