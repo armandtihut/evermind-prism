@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "Evermind + Prism: A Dual-Layer Cognitive Architecture"
+message: "If you use this work, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: "Tihut"
+    given-names: "Armand"
+
+abstract: >
+  Evermind + Prism is a non-clinical cognitive architecture designed for emotional
+  patterning, narrative continuity, and meaning-making. It defines a modular,
+  transparent, human-centered system for emotional signal interpretation and
+  narrative coherence, supported by a structured reflection layer.
+
+repository-code: "https://github.com/armandtihut/evermind-prism"
+url: "https://github.com/armandtihut/evermind-prism"
+
+doi: "10.5281/zenodo.20683900"
+version: "1.0.0"
+
+license: "MIT"
+
+keywords:
+  - cognitive architecture
+  - emotional patterning
+  - narrative continuity
+  - meaning-making
+  - non-clinical systems
+  - Evermind
+  - Prism
+  - emotional intelligence
+  - reflective systems
